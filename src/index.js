@@ -536,6 +536,7 @@ export default function ReactNetflixPlayer({
       onMouseMove={hoverScreen}
       ref={playerElement}
       onDoubleClick={chooseFullScreen}
+      onClick={play}
       fullPlayer={fullPlayer}
       hideVideo={!!error}
       fontFamily={fontFamily}
