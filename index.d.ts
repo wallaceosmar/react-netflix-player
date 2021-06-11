@@ -1,3 +1,1 @@
-declare module '@wallaceosmar/react-netflix-player' {
-    
-}
+declare module '@wallaceosmar/react-netflix-player';
